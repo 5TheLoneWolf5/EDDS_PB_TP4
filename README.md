@@ -1,0 +1,1 @@
+Como ambos projetos são vinculados: utilizam o mesmo banco de dados.
